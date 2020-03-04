@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Modal from './pages/Modal'
+
 
 
 import Routes from './routes';
@@ -25,7 +25,7 @@ function App() {
   
   </ul>
 </nav>
-<Modal />
+
       
       <Routes />
     </div>
